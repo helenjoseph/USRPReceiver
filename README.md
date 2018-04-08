@@ -8,7 +8,6 @@ The objective of the project is to:
 
 ## **Getting started**
 The USRP family of products are designed by Ettus Research for RF applications from DC to 6 GHz. For this project USRP Networking Series was used. [Installation instruction](http://files.ettus.com/manual/page_usrp2.html) provide detailed instruction to connect the USRP device to the host system and the [build guidelines](http://files.ettus.com/manual/page_build_guide.html) provide instruction to build and install USRP Hardware Driver (UHD) from source.
-This project requires
 
 ## **Implementation**
 
